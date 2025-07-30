@@ -1,0 +1,5 @@
+
+At 04-07-2025 11:52:31  AM :- Error logs are: division by zero
+At 04-07-2025 11:52:53  AM :- Error logs are: division by zero
+At 04-07-2025 11:53:18  AM :- Error logs are: invalid syntax (<string>, line 1)
+At 04-07-2025 11:55:09  AM :- Error logs are: division by zero

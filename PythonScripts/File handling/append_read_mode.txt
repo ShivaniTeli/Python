@@ -1,0 +1,2 @@
+We are learning append and read mode
+This mode never overwritetrial	trial
